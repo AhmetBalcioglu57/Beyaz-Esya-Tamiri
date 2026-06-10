@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmetbalcioglu57.github.io/Adem-Usta-Beyaz-Esya/sitemap.xml
